@@ -1,0 +1,40 @@
+*.zip
+*.gif
+*.jpg
+*.JPG
+*.mat
+*.nc
+*.eps
+*.PNG
+*.png
+*.fig
+*.csv
+*.xlsx
+*.tmp
+*.txt
+copy_*.m
+*_dpush.m
+*_dpush
+*v2.m
+*v3.m
+a_*.m
+required_functions/
+old*/
+DEADJOE
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+# Compiled MEX binaries (all platforms)
+*.mex*
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+# Generated helpsearch folders
+helpsearch*/
+# Simulink code generation folders
+slprj/
+sccprj/
+# Matlab code generation folders
+codegen/
